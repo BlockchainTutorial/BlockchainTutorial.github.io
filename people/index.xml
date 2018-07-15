@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peoples on Blockchain Data Analytics Tutorial</title>
+    <link>/people/</link>
+    <description>Recent content in Peoples on Blockchain Data Analytics Tutorial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Core Blockchain Technology</title>
+      <link>/people/all/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/people/all/</guid>
+      <description>We will describe how the Blockchain technology was created, how ideas were adopted from various research fields and how they were put to use in creating a distributed and secure ledger. Each component of the Blockchain technology, such as transactions, blocks and miners, will be described in detail. Furthermore, we will overview the frontier developments on advancement of the existing blockchain components.</description>
+    </item>
+    
+  </channel>
+</rss>

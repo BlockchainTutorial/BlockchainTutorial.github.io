@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Blockchain Data Analytics Tutorial</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Blockchain Data Analytics Tutorial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Graph Mining works</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
+      <description>We will outline graph theoretical models~\cite{maesa2016analysis,ron2013quantitative,ober2013structure} for Blockchain components. This section will provide a comprehensive discussion of the benefits and limitations of adopting and using traditional graph mining approaches for Blockchain.
+We will also detail novel research direction and algorithms in Blockchain graph modeling and analytics. For example, we will show how graph mining tools can be advanced to link addresses and to identify buyers and sellers in real life~\cite{kappos2018empirical,miller2017empirical}. Furthermore, we will discuss a critical role of local blockchain subgraph information such as blockchain motifs, for cryptocurrency price prediction and risk investment management~\cite{akcora2018chainlet, akcorael2018}, as well as for e-crime detection and global market sensing.</description>
+    </item>
+    
+  </channel>
+</rss>
