@@ -12,43 +12,5 @@
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Core Blockchain Technology</title>
-      <link>/publication/core/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/core/</guid>
-      <description>We will describe how the Blockchain technology was created, how ideas were adopted from various research fields and how they were put to use in creating a distributed and secure ledger. Each component of the Blockchain technology, such as transactions, blocks and miners, will be described in detail. Furthermore, we will overview the frontier developments on advancement of the existing blockchain components.</description>
-    </item>
-    
-    <item>
-      <title>Financial Research on Blockchain</title>
-      <link>/publication/finance/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/finance/</guid>
-      <description>With emergence and rapid adoption of Blockchain technologies in cryptocurrencies, such as Bitcoin, analyzing the role of Blockchain data in finance has become a critical research direction. In contrast to other financial networks such as stock and currency trading, Blockchain based cryptocurrencies have the entire transaction graph accessible to the public. We will discuss recent studies and state-of-the-art research approaches that have exploited this information and evaluated the role of users, entities and their interactions in formation and dynamics of cryptocurrency risk investment, financial predictive analytics and, more generally, in re-shaping the modern financial world.</description>
-    </item>
-    
-    <item>
-      <title>Graph Analytics on Blockchain</title>
-      <link>/publication/graph/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/graph/</guid>
-      <description>We will outline graph theoretical models for Blockchain components. This section will provide a comprehensive discussion of the benefits and limitations of adopting and using traditional graph mining approaches for Blockchain.
-We will also detail novel research direction and algorithms in Blockchain graph modeling and analytics. For example, we will show how graph mining tools can be advanced to link addresses and to identify buyers and sellers in real life. Furthermore, we will discuss a critical role of local blockchain subgraph information such as blockchain motifs, for cryptocurrency price prediction and risk investment management, as well as for e-crime detection and global market sensing.</description>
-    </item>
-    
-    <item>
-      <title>Security and Privacy Research on Blokchain</title>
-      <link>/publication/security/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/security/</guid>
-      <description>We will outline graph theoretical models for Blockchain components. This section will provide a comprehensive discussion of the benefits and limitations of adopting and using traditional graph mining approaches for Blockchain.
-We will also detail novel research direction and algorithms in Blockchain graph modeling and analytics. For example, we will show how graph mining tools can be advanced to link addresses and to identify buyers and sellers in real life. Furthermore, we will discuss a critical role of local blockchain subgraph information such as blockchain motifs, for cryptocurrency price prediction and risk investment management, as well as for e-crime detection and global market sensing.</description>
-    </item>
-    
   </channel>
 </rss>

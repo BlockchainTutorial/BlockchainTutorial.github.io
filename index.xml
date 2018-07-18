@@ -11,58 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Core Blockchain Technology</title>
-      <link>/publication/core/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/core/</guid>
-      <description>&lt;p&gt;We will describe how the Blockchain technology was created, how ideas were adopted from various research fields and how they were put to use in creating a distributed and secure ledger. Each component of the Blockchain technology, such as transactions, blocks and miners, will be described in detail. Furthermore, we will overview the frontier developments on advancement of the existing blockchain components.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Financial Research on Blockchain</title>
-      <link>/publication/finance/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/finance/</guid>
-      <description>&lt;p&gt;With emergence and rapid adoption of Blockchain technologies in cryptocurrencies, such as Bitcoin, analyzing the role of Blockchain data in finance has become a critical research direction. In contrast to other financial networks such as stock and currency trading, Blockchain based cryptocurrencies have the entire transaction graph accessible to the public. We will discuss recent studies and state-of-the-art research approaches that have exploited this information and evaluated the role of users, entities and their interactions in formation and dynamics of cryptocurrency risk investment, financial predictive analytics and, more generally, in re-shaping the modern financial world.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Graph Analytics on Blockchain</title>
-      <link>/publication/graph/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/graph/</guid>
-      <description>&lt;p&gt;We will outline graph theoretical models for Blockchain components. This section will provide a comprehensive discussion of the benefits and limitations of adopting and using traditional graph mining approaches for Blockchain.&lt;/p&gt;
-
-&lt;p&gt;We will also detail novel research direction and algorithms in Blockchain graph modeling and analytics.
-For example, we will show how graph mining tools can be advanced to link addresses and to identify buyers and sellers in real life. Furthermore,
-we will discuss a critical role of local blockchain subgraph information such as blockchain motifs, for cryptocurrency price prediction and risk investment management, as well as for e-crime detection and global market sensing.&lt;/p&gt;
-
-&lt;p&gt;In recent years, Smart Contract based tokens on Blockchain platforms have become an important financial tool in raising initial funds for companies. As in cryptocurrencies, transactions that involve tokens are public information on the blockchain. Graph analysis of token networks provides timely and important information in price prediction, price manipulation detection and trend analysis. The tutorial will review related works in this emerging direction of graph analysis for blockchain platforms, and provide pointers for datasets, tools and projects.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Security and Privacy Research on Blokchain</title>
-      <link>/publication/security/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/security/</guid>
-      <description>&lt;p&gt;We will outline graph theoretical models for Blockchain components. This section will provide a comprehensive discussion of the benefits and limitations of adopting and using traditional graph mining approaches for Blockchain.&lt;/p&gt;
-
-&lt;p&gt;We will also detail novel research direction and algorithms in Blockchain graph modeling and analytics.
-For example, we will show how graph mining tools can be advanced to link addresses and to identify buyers and sellers in real life. Furthermore,
-we will discuss a critical role of local blockchain subgraph information such as blockchain motifs, for cryptocurrency price prediction and risk investment management, as well as for e-crime detection and global market sensing.&lt;/p&gt;
-
-&lt;p&gt;In recent years, Smart Contract based tokens on Blockchain platforms have become an important financial tool in raising initial funds for companies. As in cryptocurrencies, transactions that involve tokens are public information on the blockchain. Graph analysis of token networks provides timely and important information in price prediction, price manipulation detection and trend analysis. The tutorial will review related works in this emerging direction of graph analysis for blockchain platforms, and provide pointers for datasets, tools and projects.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 -0500</pubDate>
@@ -294,54 +242,6 @@ git submodule update --init --recursive
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 </description>
     </item>
     
